@@ -24,7 +24,7 @@ html-foundations
 Each assignment folder contains:
 - Related HTML files
 - Output screenshots 
-```
+
 
 ## 📘 Assignments Overview
 
