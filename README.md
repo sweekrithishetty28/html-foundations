@@ -19,11 +19,11 @@ html-foundations
 ├── 08-Preformatted Resume Section
 ├── 09-Multilingual Text Direction Page
 └── 10-Mini Static Website
-
+```
 Each assignment folder contains:
 - Related HTML files
 - Output screenshots 
-'''
+---
 
 ## 📘 Assignments Overview
 
