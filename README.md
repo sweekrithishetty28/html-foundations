@@ -6,7 +6,7 @@ Each assignment focuses on core HTML concepts such as structure, formatting, ima
 ---
 
 ## 📁 Folder Structure
-'''
+```
 html-foundations
 └── frontend-basics
 ├── 01-Personal Profile
@@ -24,8 +24,7 @@ html-foundations
 Each assignment folder contains:
 - Related HTML files
 - Output screenshots 
-
----
+```
 
 ## 📘 Assignments Overview
 
